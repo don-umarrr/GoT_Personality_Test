@@ -1,0 +1,40 @@
+
+body{
+    background-color: gray;
+    font-family: Times;
+    text-align: center;
+}
+
+#main{
+    width: 90%;
+    max-width: 900px;
+    border: 5px gray solid;
+    margin: auto;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+#header{
+    margin-top: 0;
+    border: 2px solid black;
+    padding: 5px;
+    height: 250px;
+    background: beige;
+    background-image: url("./images/throne.jpg");
+    color: DarkRed;
+}
+
+label{
+    display: block;
+}
+
+input{
+    width: 30px;
+    margin-left: 20px;
+}
+
+h2{
+    clear: both;
+    padding-top: 20px;
+}
